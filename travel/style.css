@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.hero-container {
+    width: 100%;
+    height: 100vh;
+    background-image: url(img/wow.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.hero-row {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(10, 39, 39, 0.3);
+    padding: 100px;
+    background-size: cover;
+    text-align: center;
+
+}
+
+.hero-row h1 {
+    font-size: 44px;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(251, 253, 255);
+
+}
+
+.hero-row p {
+    font-size: 20px;
+    padding: 20px 100px;
+}
+
+.hero-row button {
+    padding: 15px 40px;
+    color: black;
+    background-color: aliceblue;
+    font-size: 18px;
+
+}

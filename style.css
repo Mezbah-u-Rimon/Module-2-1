@@ -1,0 +1,44 @@
+.header {
+    height: 400px;
+    /* background-image: url(img/pizza.png); */
+    background-image: url(../Module-2/img/pizza.png);
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    background-size: 400px;
+}
+
+h1 {
+    font-size: 44px;
+    text-decoration: overline;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.blog {
+    margin: 20px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 20px blueviolet;
+}
+
+.second {
+    /* display: none; */
+    /* visibility: none; */
+}
+
+.seii {
+    border: 2px solid purple;
+    margin: 20px;
+    padding: 20px;
+    /* display: block; */
+    display: inline-block;
+}
+
+.dolar {
+    border: 2px solid rgb(10, 228, 156);
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+}

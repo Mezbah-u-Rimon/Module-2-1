@@ -1,0 +1,51 @@
+/* * {
+    margin: 0px;
+    padding: 0px;
+} */
+
+.practice-2 {
+    font-size: 34px;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.practice-2-p {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+li {
+    font-size: 22px;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px;
+
+}
+
+
+/* practice-3 */
+.practice-3 {
+    width: 45%;
+    height: 200px;
+    border: 5px solid rgba(127, 255, 212, 0.897);
+    box-shadow: 5px 5px 10px rgb(255, 210, 127);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+#heading-1 {
+    font-size: 44px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    text-align: center;
+}
+
+.practice-3 p {
+    font-size: 20px;
+}
